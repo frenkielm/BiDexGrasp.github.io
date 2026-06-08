@@ -191,6 +191,14 @@ html {
   margin-top: 1rem;
 }
 
+.video-category + .video-category {
+  margin-top: 3rem;
+}
+
+.video-category-title {
+  margin-bottom: 1rem !important;
+}
+
 .abstract-copy p {
   font-size: 1.05rem;
   line-height: 1.9;
